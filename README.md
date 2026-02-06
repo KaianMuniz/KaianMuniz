@@ -4,7 +4,7 @@ Este repositório é onde eu posto meus projetos de estudo e prática em program
 Aqui você vai encontrar experimentos, testes e projetos desenvolvidos.<br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 
 
 
