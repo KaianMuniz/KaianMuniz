@@ -1,7 +1,10 @@
 ## Sobre Mim 💬
 Olá, sou o Kaian Muniz e estudo Análise e Desenvolvimento de Sistemas
+Este repositório é onde eu posto meus projetos de estudo e prática em programação.
+Aqui você vai encontrar experimentos, testes e projetos desenvolvidos.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaianMuniz&hide=contribs,prs&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaianmuniz&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 ## Contatos
 <div> 
